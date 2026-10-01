@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/images/project-banner.png" width="100%" alt="Live Location and Smart Inspection Platform">
+![Live Location and Smart Inspection Platform](./assets/dashboard.png)
 
 ### Real-Time Location Tracking • Field Inspection • Visual Analysis
 
